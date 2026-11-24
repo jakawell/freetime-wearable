@@ -10,7 +10,6 @@
         "flashingEnabled": true,
       },
       "chip": "nRF52832_xxAA",
-      "speed": 100,
       "coreConfigs": [
         {
           "programBinary": "${workspaceFolder}/target/thumbv7em-none-eabi/debug/free-time-wearable",
